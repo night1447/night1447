@@ -1,6 +1,6 @@
 # Frontend Developer
 
-In this document, you'll find information about me as a frontend developer and the stack I'm proficient in, including React, HTML, TypeScript, CSS, Sass, Tailwind CSS, JavaScript, Redux, and Redux Toolkit (RTK).
+You'll find information about me as a frontend developer and the stack I'm proficient in, including React, HTML, TypeScript, CSS, Sass, Tailwind CSS, JavaScript, Redux, and Redux Toolkit (RTK).
 
 ## About Me
 Hi there! I'm Dzmitry, a frontend developer with expertise and experience in building modern and user-friendly web applications. I'm passionate about creating beautiful and performant user interfaces using the latest frontend technologies. I love collaborating with cross-functional teams and bringing designs to life.
